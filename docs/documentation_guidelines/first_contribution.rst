@@ -4,9 +4,7 @@
 *****************************
  A Step By Step Contribution
 *****************************
-
-.. contents::
-   :local:
+   
 
 .. note:: Though QGIS-Documentation is used to demonstrate the process, all
    commands and steps shown below also apply to QGIS-Website.
